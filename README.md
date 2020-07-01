@@ -1,4 +1,4 @@
-# Jest Coverage Badges
+# Jest Coverage Badges Enhanced
 
 > Create a group of coverage badge
 
