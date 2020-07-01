@@ -1,12 +1,12 @@
 {
-  "name": "jest-coverage-badges",
-  "version": "1.1.3",
+  "name": "jest-coverage-badges-enhanced",
+  "version": "1.2.0",
   "description": "Create a group of coverage badges from jest",
   "main": "cli.js",
   "bin": "cli.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/pamepeixinho/jest-coverage-badges.git"
+    "url": "https://github.com/patsta32/jest-coverage-badges.git"
   },
   "keywords": [
     "coverage",
@@ -14,15 +14,15 @@
     "jest",
     "istanbul"
   ],
-  "author": "Pamela Peixinho <git@pamepeixinho.com> (https://pamepeixinho.github.io)",
+  "author": "Patrick Stadler (https://patrickstadler.dev)",
   "engines": {
     "node": ">=6.11",
     "npm": ">=5.3"
   },
   "bugs": {
-    "url": "https://github.com/pamepeixinho/jest-coverage-badge/issues"
+    "url": "https://github.com/patsta32/jest-coverage-badge/issues"
   },
-  "homepage": "https://github.com/pamepeixinho/jest-coverage-badge#readme",
+  "homepage": "https://github.com/patsta32/jest-coverage-badge#readme",
   "scripts": {
     "lint": "eslint --fix -- ."
   },
